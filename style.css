@@ -110,8 +110,7 @@ nav{
   text-align: center;
   font-size: 16px;
   font-weight: 400;
-  letter-spacing: 0.1em;
-  cursor: pointer;
+  /* letter-spacing: 0.1em; */
   outline: none;
   border-radius: 9999px;
   text-decoration: none;
@@ -188,7 +187,7 @@ nav{
   text-align: center;
   font-size: 16px;
   font-weight: 400;
-  letter-spacing: 0.1em;
+  /* letter-spacing: 0.1em; */
   cursor: pointer;
   outline: none;
   border-radius: 9999px;
@@ -292,7 +291,7 @@ nav{
   font-size: 16px;
   font-weight: 400;
   color: #FFFFFF;
-  letter-spacing: 0.1em;
+  /* letter-spacing: 0.1em; */
   cursor: pointer;
   outline: none;
   border-radius: 9999px;
@@ -622,8 +621,7 @@ nav{
   padding-right: 10px;
 }
 
-/* .pricing-child:nth-child(1) a:nth-child(7),
-.pricing-child:nth-child(3) a:nth-child(7){
+/* .pricing-child:nth-child(1) a:nth-child(7){
   display: block;
   text-align: center;
   padding: 10px 0;
@@ -642,7 +640,6 @@ nav{
   linear-gradient(#140b22, #140b22),
   linear-gradient(90deg, #174993 0%, #892CAE 100%);
 
-  linear-gradient(90deg, #3b52ab 0%, #6d28d9 45%, #9333ea 75%, #7e22ce 100%);
   background-clip: border-box;
   background-clip: padding-box, border-box;
 
@@ -657,15 +654,13 @@ nav{
   font-size: 16px;
   font-weight: 300;
   color: #D9D0F0;
-  letter-spacing: 0.1em;
-  cursor: pointer;
   outline: none;
   border-radius: 9999px;
   text-decoration: none;
   margin-top: 20px;
 
   border: 1px solid transparent;
-  background-image:
+  background-image:  
     linear-gradient(#26122a, #26122a),
     linear-gradient(90deg, #1f5fd1 0%, #c11fe0 100%);
   background-clip: padding-box, border-box;
@@ -720,7 +715,7 @@ nav{
   font-size: 16px;
   font-weight: 300;
   color: #D9D0F0;
-  letter-spacing: 0.1em;
+  /* letter-spacing: 0.1em; */
   cursor: pointer;
   outline: none;
   border-radius: 9999px;
